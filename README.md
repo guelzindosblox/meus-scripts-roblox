@@ -12,3 +12,15 @@ Script desenvolvido para os jogadores de roblox que usam executores conseguirem 
 - Alive check
 - FPS Unlocker
 - etc...
+
+## ⚠️ Aviso
+
+Use por sua conta e risco. Não me responsabilizo por banimentos ou problemas.
+
+## 👨‍💻 Créditos
+
+Desenvolvido por MNA8266.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
